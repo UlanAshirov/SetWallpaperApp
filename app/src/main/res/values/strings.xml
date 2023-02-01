@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SetWallpaperApp</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="example">Default</string>
+
+    <array name="categories">
+        <item>backgrounds</item>
+        <item>fashion</item>
+        <item>animals</item>
+        <item>sports</item>
+        <item>business</item>
+        <item>transportation</item>
+        <item>places</item>
+        <item>nature</item>
+    </array>
+</resources>
